@@ -1,4 +1,4 @@
-global.owner = ['6283876159184'] // nomer anda
+global.owner = ['6281327327914'] // nomer anda
 global.mods = [] // Want some help?
 global.prems = ['6289999999999'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -20,8 +20,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'XENTOLL\'BOT'
-global.author = 'XENTOLL-BOT'
+global.packname = 'AZUKA\'BOT'
+global.author = 'AZUKA-BOT'
 
 global.multiplier = 69 // The higher, The harder levelup
 
