@@ -1,6 +1,6 @@
-global.owner = ['6281327327914'] // nomer anda
-global.mods = [] // Want some help?
-global.prems = ['6289999999999'] // Premium user has unlimited limit
+global.owner = ['6287855791029'] // nomer anda
+global.mods = [6287855791029] // Want some help?
+global.prems = ['6287855791029'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -20,8 +20,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'AZUKA\'BOT'
-global.author = 'AZUKA-BOT'
+global.packname = '© BagsBot-Md'
+global.author = 'Bagus'
 
 global.multiplier = 69 // The higher, The harder levelup
 
